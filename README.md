@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi hubs,
+
+I like c,python,shell.
